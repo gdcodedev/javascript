@@ -6,3 +6,6 @@
 - [x]  Alert
 - [x]  Strings
 - [x]  Array
+- [x]  While e For
+- [x]  Condicionais
+- [x]  Date   
