@@ -1,6 +1,6 @@
-# BootCamp Javascript
+# BootCamp Javascript - Developer Web Certificate
 
-- Developer Web Certificate
+
 
 - [x]  Variáveis
 - [x]  Alert
